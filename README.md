@@ -19,5 +19,5 @@ This repository serves as:
 
 ## Acknowledgement
 
-Special thanks to @CodeWithHarry, the sequence followed is inspired by **CodeWithHarry's** Python tutorial which I used as a guide during this recap.
+Special thanks to [@CodeWithHarry](https://github.com/codewithharry), the sequence followed is inspired by **CodeWithHarry's** Python tutorial which I used as a guide during this recap.
 The code, examples, and additional exercises were performed by my own self, adapted and extended during practice.
