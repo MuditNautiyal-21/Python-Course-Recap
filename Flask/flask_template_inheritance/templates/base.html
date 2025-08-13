@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %} {% endblock %}</title>
+    <style>
+        nav {
+            background-color: #f8f9fa;
+            padding: 10px;
+            text-align: left;
+        }
+
+        footer{
+            background-color: #f8f9fa;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        This is navbar
+    </nav>
+    {% block content %} {% endblock %}
+
+    <footer>
+        This is footer
+    </footer>
+</body>
+</html>

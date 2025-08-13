@@ -1,0 +1,4 @@
+Hello everyone. I am good.
+I hope you are doing good.
+
+This is a sample file to understand os module.

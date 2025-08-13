@@ -1,0 +1,6 @@
+
+John Doe is a 28 year old guy.
+He lives in New York and he works in python.
+His favorite hobby is to juggle with python.
+
+John Doe previously lived in Arizona but now lives in New York!
